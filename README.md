@@ -57,11 +57,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/sirreajohn/Parts_of_speech_tagger_/tree/master/images/1.png)
+[![https://github.com/sirreajohn/Parts_of_speech_tagger_/tree/master/images/1.png][product-screenshot]]()
 
 a simple parts of speech tagger to outputa string with every word tagged with its respective parts of speech.
 
-`github_username`, `repo_name`, `twitter_handle`, `email`
 
 
 ### Built With
