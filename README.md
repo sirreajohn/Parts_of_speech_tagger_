@@ -57,7 +57,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![pos Logo](/images/1.png)
+![pos Logo](/images/1.PNG)
 
 a simple parts of speech tagger to outputa string with every word tagged with its respective parts of speech.
 
