@@ -57,7 +57,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![https://github.com/sirreajohn/Parts_of_speech_tagger_/tree/master/images/1.png][product-screenshot]]()
+![pos Logo](/images/1.png)
 
 a simple parts of speech tagger to outputa string with every word tagged with its respective parts of speech.
 
